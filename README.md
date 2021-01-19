@@ -24,4 +24,7 @@ tweet = got.manager.TweetManager.getTweets(tweetCriteria)[0]
 - Performed Latent Dirichlet Allocation topic modeling on the tweets to identify the key topics observed evidently in the tweets
 
 ## Results
-- LDA topics are visualized along with the hashtag usage frequencies across all the tweets
+- LDA topics are visualized along with the hashtag usage frequencies across all the tweets. Below is the word cloud of the key words
+
+![Capture](https://user-images.githubusercontent.com/9445072/105090130-a4ea1b00-5a63-11eb-815b-5b354b897626.JPG)
+
