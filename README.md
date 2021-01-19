@@ -1,4 +1,4 @@
-# What does my cousin Tweet?
+# What do you Tweet?
 My humble attempt at observing the twitter activity by analyzing the textual content of the tweets of my tech savvy cousin.
 
 ## Objectives
